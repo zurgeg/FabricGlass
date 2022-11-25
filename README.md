@@ -1,3 +1,3 @@
 # FabricGlass
 
-Fabric port of General Layman's Aesthetic Spying Screen
+Fabric port of General Layman's Aesthetic Spying Screen.
